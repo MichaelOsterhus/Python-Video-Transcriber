@@ -18,7 +18,7 @@ in the terminal, in the repository, type
 ```python gui.py```
     
 The app is very simple.  It has no progress bar and you will not know it's working
-until you receive an alert, but you can check your the folder of the repository
+until you receive an alert, but you can check the folder of the repository
 as you will receive in this order:
 
 1. 'video.mp4'
