@@ -1,5 +1,5 @@
 # Python-Video-Transcriber
-A simple Python app with GUI that transcribes video from YouTube URL or local file
+A simple Python app with GUI that transcribes video from YouTube URL or local file to text
 
 ## First download or clone the repository
 
