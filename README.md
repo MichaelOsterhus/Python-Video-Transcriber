@@ -17,7 +17,7 @@ in the terminal, in the repository, type
 
 ```python gui.py```
     
-Thee app is very simple.  It has no progress bar and you will not know it's working
+The app is very simple.  It has no progress bar and you will not know it's working
 until you receive an alert, but you can check your the folder of the repository
 as you will receive in this order:
 
